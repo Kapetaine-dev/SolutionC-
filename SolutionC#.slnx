@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="filecovertor/filecovertor.csproj" Id="e0561147-7816-4c2c-8221-cb74ea005dc5" />
   <Project Path="Projet1C#/Projet1C#.csproj" />
   <Project Path="Projet2C#/Projet2C#.csproj" />
 </Solution>

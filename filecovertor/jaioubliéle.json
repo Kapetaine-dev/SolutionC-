@@ -1,0 +1,314 @@
+[
+  {
+    "carte": "2 de Coeur",
+    "rang": "2",
+    "couleur": "Rouge",
+    "valeur": "2"
+  },
+  {
+    "carte": "3 de Coeur",
+    "rang": "3",
+    "couleur": "Rouge",
+    "valeur": "3"
+  },
+  {
+    "carte": "4 de Coeur",
+    "rang": "4",
+    "couleur": "Rouge",
+    "valeur": "4"
+  },
+  {
+    "carte": "5 de Coeur",
+    "rang": "5",
+    "couleur": "Rouge",
+    "valeur": "5"
+  },
+  {
+    "carte": "6 de Coeur",
+    "rang": "6",
+    "couleur": "Rouge",
+    "valeur": "6"
+  },
+  {
+    "carte": "7 de Coeur",
+    "rang": "7",
+    "couleur": "Rouge",
+    "valeur": "7"
+  },
+  {
+    "carte": "8 de Coeur",
+    "rang": "8",
+    "couleur": "Rouge",
+    "valeur": "8"
+  },
+  {
+    "carte": "9 de Coeur",
+    "rang": "9",
+    "couleur": "Rouge",
+    "valeur": "9"
+  },
+  {
+    "carte": "10 de Coeur",
+    "rang": "10",
+    "couleur": "Rouge",
+    "valeur": "10"
+  },
+  {
+    "carte": "Valet de Coeur",
+    "rang": "Valet",
+    "couleur": "Rouge",
+    "valeur": "11"
+  },
+  {
+    "carte": "Dame de Coeur",
+    "rang": "Dame",
+    "couleur": "Rouge",
+    "valeur": "12"
+  },
+  {
+    "carte": "Roi de Coeur",
+    "rang": "Roi",
+    "couleur": "Rouge",
+    "valeur": "13"
+  },
+  {
+    "carte": "As de Coeur",
+    "rang": "As",
+    "couleur": "Rouge",
+    "valeur": "14"
+  },
+  {
+    "carte": "2 de Carreau",
+    "rang": "2",
+    "couleur": "Rouge",
+    "valeur": "2"
+  },
+  {
+    "carte": "3 de Carreau",
+    "rang": "3",
+    "couleur": "Rouge",
+    "valeur": "3"
+  },
+  {
+    "carte": "4 de Carreau",
+    "rang": "4",
+    "couleur": "Rouge",
+    "valeur": "4"
+  },
+  {
+    "carte": "5 de Carreau",
+    "rang": "5",
+    "couleur": "Rouge",
+    "valeur": "5"
+  },
+  {
+    "carte": "6 de Carreau",
+    "rang": "6",
+    "couleur": "Rouge",
+    "valeur": "6"
+  },
+  {
+    "carte": "7 de Carreau",
+    "rang": "7",
+    "couleur": "Rouge",
+    "valeur": "7"
+  },
+  {
+    "carte": "8 de Carreau",
+    "rang": "8",
+    "couleur": "Rouge",
+    "valeur": "8"
+  },
+  {
+    "carte": "9 de Carreau",
+    "rang": "9",
+    "couleur": "Rouge",
+    "valeur": "9"
+  },
+  {
+    "carte": "10 de Carreau",
+    "rang": "10",
+    "couleur": "Rouge",
+    "valeur": "10"
+  },
+  {
+    "carte": "Valet de Carreau",
+    "rang": "Valet",
+    "couleur": "Rouge",
+    "valeur": "11"
+  },
+  {
+    "carte": "Dame de Carreau",
+    "rang": "Dame",
+    "couleur": "Rouge",
+    "valeur": "12"
+  },
+  {
+    "carte": "Roi de Carreau",
+    "rang": "Roi",
+    "couleur": "Rouge",
+    "valeur": "13"
+  },
+  {
+    "carte": "As de Carreau",
+    "rang": "As",
+    "couleur": "Rouge",
+    "valeur": "14"
+  },
+  {
+    "carte": "2 de Trefle",
+    "rang": "2",
+    "couleur": "Noir",
+    "valeur": "2"
+  },
+  {
+    "carte": "3 de Trefle",
+    "rang": "3",
+    "couleur": "Noir",
+    "valeur": "3"
+  },
+  {
+    "carte": "4 de Trefle",
+    "rang": "4",
+    "couleur": "Noir",
+    "valeur": "4"
+  },
+  {
+    "carte": "5 de Trefle",
+    "rang": "5",
+    "couleur": "Noir",
+    "valeur": "5"
+  },
+  {
+    "carte": "6 de Trefle",
+    "rang": "6",
+    "couleur": "Noir",
+    "valeur": "6"
+  },
+  {
+    "carte": "7 de Trefle",
+    "rang": "7",
+    "couleur": "Noir",
+    "valeur": "7"
+  },
+  {
+    "carte": "8 de Trefle",
+    "rang": "8",
+    "couleur": "Noir",
+    "valeur": "8"
+  },
+  {
+    "carte": "9 de Trefle",
+    "rang": "9",
+    "couleur": "Noir",
+    "valeur": "9"
+  },
+  {
+    "carte": "10 de Trefle",
+    "rang": "10",
+    "couleur": "Noir",
+    "valeur": "10"
+  },
+  {
+    "carte": "Valet de Trefle",
+    "rang": "Valet",
+    "couleur": "Noir",
+    "valeur": "11"
+  },
+  {
+    "carte": "Dame de Trefle",
+    "rang": "Dame",
+    "couleur": "Noir",
+    "valeur": "12"
+  },
+  {
+    "carte": "Roi de Trefle",
+    "rang": "Roi",
+    "couleur": "Noir",
+    "valeur": "13"
+  },
+  {
+    "carte": "As de Trefle",
+    "rang": "As",
+    "couleur": "Noir",
+    "valeur": "14"
+  },
+  {
+    "carte": "2 de Pique",
+    "rang": "2",
+    "couleur": "Noir",
+    "valeur": "2"
+  },
+  {
+    "carte": "3 de Pique",
+    "rang": "3",
+    "couleur": "Noir",
+    "valeur": "3"
+  },
+  {
+    "carte": "4 de Pique",
+    "rang": "4",
+    "couleur": "Noir",
+    "valeur": "4"
+  },
+  {
+    "carte": "5 de Pique",
+    "rang": "5",
+    "couleur": "Noir",
+    "valeur": "5"
+  },
+  {
+    "carte": "6 de Pique",
+    "rang": "6",
+    "couleur": "Noir",
+    "valeur": "6"
+  },
+  {
+    "carte": "7 de Pique",
+    "rang": "7",
+    "couleur": "Noir",
+    "valeur": "7"
+  },
+  {
+    "carte": "8 de Pique",
+    "rang": "8",
+    "couleur": "Noir",
+    "valeur": "8"
+  },
+  {
+    "carte": "9 de Pique",
+    "rang": "9",
+    "couleur": "Noir",
+    "valeur": "9"
+  },
+  {
+    "carte": "10 de Pique",
+    "rang": "10",
+    "couleur": "Noir",
+    "valeur": "10"
+  },
+  {
+    "carte": "Valet de Pique",
+    "rang": "Valet",
+    "couleur": "Noir",
+    "valeur": "11"
+  },
+  {
+    "carte": "Dame de Pique",
+    "rang": "Dame",
+    "couleur": "Noir",
+    "valeur": "12"
+  },
+  {
+    "carte": "Roi de Pique",
+    "rang": "Roi",
+    "couleur": "Noir",
+    "valeur": "13"
+  },
+  {
+    "carte": "As de Pique",
+    "rang": "As",
+    "couleur": "Noir",
+    "valeur": "14"
+  }
+]
