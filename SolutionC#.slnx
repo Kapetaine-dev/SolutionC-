@@ -1,5 +1,7 @@
 <Solution>
   <Project Path="filecovertor/filecovertor.csproj" Id="e0561147-7816-4c2c-8221-cb74ea005dc5" />
+  <Project Path="OptimisationImages/OptimisationImages.csproj" Id="350df0de-b5de-4e7b-af17-f0a0e32b546d" />
   <Project Path="Projet1C#/Projet1C#.csproj" />
   <Project Path="Projet2C#/Projet2C#.csproj" />
+  <Project Path="testcalcul/testcalcul.csproj" Id="750d4ea8-3d53-42cc-b104-ae8780f2f97e" />
 </Solution>
